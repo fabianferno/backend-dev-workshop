@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/fabianferno/express-js-workshop#readme",
   "dependencies": {
+    "@prisma/client": "^3.8.1",
     "express": "^4.17.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "prisma": "^3.8.1"
   }
 }
