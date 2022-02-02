@@ -4,6 +4,7 @@
   "description": "A scalable boilerplate for express.js and typescript with prisma config",
   "main": "index.ts",
   "scripts": {
+    "seed": "ts-node ./prisma/seed.ts",
     "build": "npx prisma generate && tsc",
     "start": "nodemon ./dist/index.js",
     "dev": "npx prisma generate && nodemon --exec ts-node -- ./src/index.ts",
@@ -35,6 +36,7 @@
     "nocache": "^3.0.1"
   },
   "devDependencies": {
+    "@faker-js/faker": "6.0.0-alpha.5",
     "@types/dotenv": "^4.0.3",
     "@types/express": "^4.16.0",
     "@types/node": "^10.9.4",
