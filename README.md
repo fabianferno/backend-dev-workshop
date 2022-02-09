@@ -50,7 +50,7 @@ npm run prod
 <a href="https://www.youtube.com/watch?v=hWz6ps63dxs&list=PLLCdGWbcw9uxA4yNzJTj527n-6K3ncWFP">
   <img width="30%" src="https://img.youtube.com/vi/hWz6ps63dxs/0.jpg" /> 
 </a>
-- Please hit the like button on the videos. 🤞
+<br/>Please hit the like button on the videos. 🤞
 
 
 ----
