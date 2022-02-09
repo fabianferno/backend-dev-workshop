@@ -58,7 +58,7 @@ npm run prod
 - You get to build your own choice of a fully functional Rest API.
 - These could be APIs like a Weather API, Backend for a blogging platform, Movie ticket booking API, etc.
 - All the codebase of your submission shall be pushed to the Github classroon assignment repo that was sent earlier.
-- Important: No participant shall submit a same application. i.e Your submission must be unique. Hence you are requested to use the #coders-chat channel at <a href="https://discord.gg/GuMceRXPSQ">Pattarai Discord</a> to call dibs on what you will be building.
+- Important: No participant shall submit a same application. i.e Your submission must be unique. Hence you are requested to use the `#coders-chat` channel at <a href="https://discord.gg/GuMceRXPSQ">Pattarai Discord</a> to call dibs on what you will be building.
 
 #### General Rules
 - Your backend shall consist of more than two relations between the data models.
@@ -75,10 +75,16 @@ npm run prod
 - Your workshop submission might actually end up in a official prisma repository.
 
 
-Feel Free to ping me: <strong>super.skywalker#4004</strong> at #coders-chat in Pattarai's discord if you have any doubts regarding the task.
+Feel Free to ping me: <strong>super.skywalker#4004</strong> at `#coders-chat` in Pattarai's discord if you have any doubts regarding the task.
 Happy Learning.
  
 Please star this repo to show support ⭐️
+
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 
 
 ----
