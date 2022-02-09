@@ -1,4 +1,4 @@
-<img width="70%" src="https://user-images.githubusercontent.com/57835412/153080868-8254e54f-64bf-4965-b467-3074af466312.png"/>
+![image](https://user-images.githubusercontent.com/57835412/153121327-1dd7bd20-379f-44bb-849c-0540a6a21870.png)
 
 
 ----  
@@ -48,7 +48,7 @@ npm run prod
 ----
 #### Watch the complete workshop playlist in YouTube
 <a href="https://www.youtube.com/watch?v=hWz6ps63dxs&list=PLLCdGWbcw9uxA4yNzJTj527n-6K3ncWFP">
-  <img width="40%" src="https://img.youtube.com/vi/hWz6ps63dxs/0.jpg" /> 
+  <img width="30%" src="https://img.youtube.com/vi/hWz6ps63dxs/0.jpg" /> 
 </a>
 
 ----
