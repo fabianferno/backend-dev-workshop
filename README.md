@@ -54,26 +54,27 @@ npm run prod
 ----
 
 #### Workshop Task
-- You get to choose to build your own choice of a fully functional API.
-- These could be APIs like a Weather API, Backend for a blogging platform, Movie ticket booking, etc.
+- You get to build your own choice of a fully functional Rest API.
+- These could be APIs like a Weather API, Backend for a blogging platform, Movie ticket booking API, etc.
 - All the codebase of your submission shall be pushed to the Github classroon assignment repo that was sent earlier.
-- Important: No participant shall submit a same application. i.e Your submission must be unique. Hence you are requested to use the #workshop-hub channel at <a href="https://discord.gg/GuMceRXPSQ">Pattarai Discord</a> to call dibs on what you will be building.
+- Important: No participant shall submit a same application. i.e Your submission must be unique. Hence you are requested to use the #coders-chat channel at <a href="https://discord.gg/GuMceRXPSQ">Pattarai Discord</a> to call dibs on what you will be building.
 
-General Rules
+#### General Rules
 - Your backend shall consist of more than two relations between the data models.
 - Your API should do more than just doing single CRUD operations to a database. (Create, Read, Update, Delete). Try inserting, updating across multiple tables - experiment with Prisma.
+- Try implementing nested routes. Use relevant methods and errorHandlers.
 - Using jwt or any authorization is completely optional. But doing it will fetch you a higher score.
 - Your API must be well documented via Postman and the collection should be exported and added to your repository. Refer [this.](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#exporting-postman-data)
 - Optional: You could try deploying your API to https://www.railway.app
 
-Onwards:
-- You think you've built a great API and kick-ass prisma schema? Why not contribute to the actual prisma. 
-- This repo contains a few official example projects. Have a read at its README: https://github.com/prisma/templates
-- They are open for contributions. Try opening pull requests to this repo once you've successfully completed your submission.
+#### Onwards
+- You think you've built a great API and kick-ass prisma schema? Why not contribute to offical prisma. 
+- https://github.com/prisma/templates - this repo contains a few official example projects. Have a read at its README
+- They are open for contributions to add more examples. Try opening pull requests to this repo once you've successfully completed your submission.
 - Your workshop submission might actually end up in a official prisma repository.
 
 
-Feel Free to ping me: <strong>super.skywalker$4004</strong> at discord if you have any doubts regarding the task.
+Feel Free to ping me: <strong>super.skywalker#4004</strong> at #coders-chat in Pattarai's discord if you have any doubts regarding the task.
 Happy Learning.
 
 Please star this repo to show support ⭐️
