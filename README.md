@@ -46,10 +46,11 @@ npm run prod
 ```
 
 ----
-#### Watch the complete workshop playlist in YouTube
+#### Watch the complete workshop playlist in YouTube incase you missed
 <a href="https://www.youtube.com/watch?v=hWz6ps63dxs&list=PLLCdGWbcw9uxA4yNzJTj527n-6K3ncWFP">
   <img width="30%" src="https://img.youtube.com/vi/hWz6ps63dxs/0.jpg" /> 
 </a>
+
 
 ----
 
@@ -76,7 +77,7 @@ npm run prod
 
 Feel Free to ping me: <strong>super.skywalker#4004</strong> at #coders-chat in Pattarai's discord if you have any doubts regarding the task.
 Happy Learning.
-
+ 
 Please star this repo to show support ⭐️
 
 
